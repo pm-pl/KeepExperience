@@ -1,2 +1,2 @@
-#
+# Set this to true or false to save the player experience
 keep-experience: true

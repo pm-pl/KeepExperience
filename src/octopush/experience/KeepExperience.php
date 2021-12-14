@@ -117,7 +117,7 @@ class KeepExperience extends PluginBase implements Listener
 	}
 
 	/**
-	 * @return AttachableLogger
+	 * @return PrefixedLogger
 	 */
 	public function getPluginLogger(): PrefixedLogger
 	{
